@@ -29,7 +29,21 @@ guessing-game/
 └── script.js         # Lógica e interações do jogo
 
 🎮 Capturas de Tela
-(Adicione aqui imagens do jogo em funcionamento, se possível)
+Tela inicial:
+![Menu principal de entrada](https://github.com/user-attachments/assets/b0477f3d-792c-4750-a1cb-0f095bfacded)
+
+Tela de opções:
+![TELA DE OPÇÕES DE PERGUNTAS](https://github.com/user-attachments/assets/a761390d-4f15-46ea-99a2-d00f3e9b2cbd)
+
+Opção da Dúvida:
+![Na opção](https://github.com/user-attachments/assets/be25f458-2bda-42ec-aad7-8279fd563637)
+
+Acertando a resposta:
+![RESPOSTA DO JOGO](https://github.com/user-attachments/assets/d2e8e594-7347-404d-b55c-b020d94452b6)
+
+Errando a resposta:
+![PERGUNTA ERRADA](https://github.com/user-attachments/assets/43b62449-1db6-413a-9828-b7cae532b496)
+
 
 💡 Próximas Melhorias
 
