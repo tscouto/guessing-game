@@ -1,0 +1,145 @@
+[
+  {
+      "question": "Qual o oceano que banha o Brasil?",
+      "alternative1": "Oceano Índico",
+      "alternative2": "Oceano Atlântico",
+      "alternative3": "Oceano Pacífico",
+      "alternative4": "Oceano Glacial",
+      "correctAnswer": "Oceano Atlântico",
+      "explanation1": "O oceano Índico é a terceira maior divisão oceânica do mundo, cobrindo aproximadamente 20% da água da superfície da Terra. É limitada pela Ásia, incluindo a Índia, em que o oceano é chamado, no norte, a oeste pela África, a leste pela Austrália, e ao sul pelo oceano Antártico.",
+      "explanation2": "O Oceano Pacífico é o maior oceano da Terra, situado entre a América, a leste, a Ásia e a Austrália, a oeste, e a Antártida, ao sul. Com 180 milhões de km² de área superficial, o Pacífico cobre quase um terço da superfície do planeta e corresponde a quase metade da superfície e do volume dos oceanos.",
+      "explanation3": "O oceano Ártico, localizado no Hemisfério Norte e em sua maioria na região polar ártica, é a menor, e mais rasa das cinco grandes divisões oceânicas do mundo."
+  },
+  {
+      "question": "Qual o maior animal do mar?",
+      "alternative1": "Baleia-Azul",
+      "alternative2": "Tubarão-Baleia",
+      "alternative3": "Baleia de bryde",
+      "alternative4": "Baleia cachalote",
+      "correctAnswer": "Baleia-Azul",
+      "explanation1": "O tubarão-baleia é uma espécie de tubarão filtrador da ordem dos orectolobiformes e a maior espécie de peixe existente conhecida. O maior indivíduo confirmado tinha um comprimento de 18,8 metros. O tubarão-baleia detém muitos recordes de tamanho no reino animal, sendo de longe o maior vertebrado não mamífero vivo.",
+      "explanation2": "Baleia-de-bryde ou o complexo de baleia de Bryde, é o nome comum dado a duas espécies de baleias, a Balaenoptera brydei e a Balaenoptera edeni, da família dos balenopterídeos. O complexo significa que o número e a classificação permanecem obscuros devido à falta de informações e pesquisas definitivas.",
+      "explanation3": "Cachalote ou cacharréu é a maior das baleias dentadas e o maior predador com dentes. É o único membro vivo do gênero Physeter e uma das três espécies existentes na superfamília Physeteroidea, juntamente com o cachalote-pigmeu e o cachalote-anão do Kogia."
+  },
+  {
+      "question": "Qual das opções abaixo não é fruta?",
+      "alternative1": "Azeitona",
+      "alternative2": "Tomate",
+      "alternative3": "Batata",
+      "alternative4": "Morango",
+      "correctAnswer": "Batata",
+      "explanation1": "As azeitonas são classificadas como frutas porque: Formam-se a partir do ovário da flor da oliveira. Têm estruturas que geram sementes– os caroços que você deixa ao lado do prato",
+      "explanation2": "Trata-se de um fruto, uma vez que é o produto do desenvolvimento do ovário e do óvulo da flor, formando o pericarpo e as sementes, respectivamente, após a fecundação. O tomate é rico em licopeno e contém vitamina C",
+      "explanation3": "O morango é rico em vitamina C e, por isso, o consumo da fruta evita a fragilidade dos ossos e a má formação dos dentes. "
+  },
+  {
+      "question": "Quem foi a primeira pessoa a viajar no Espaço?",
+      "alternative1": "Neil Armstrong",
+      "alternative2": "Buzz Aldrin",
+      "alternative3": "Yuri Gagarin",
+      "alternative4": "Marcos Pontes",
+      "correctAnswer": "Yuri Gagarin",
+      "explanation1": "Neil Armstrong foi o primeiro homem a pisar na superfície da Lua, em 20 de julho de 1969.",
+      "explanation2": "Marcos Pontes foi o primeiro brasileiro, sul-americano e lusófono a ir ao espaço, na missão batizada Missão Centenário.  Em 30 de março de 2006, partiu para a Estação Espacial Internacional.",
+      "explanation3": "Yuri Gagarin, em 1960 foi um dos 20 pilotos selecionados, após rigorosos testes físicos e psicológicos, para o programa espacial soviético, e acabou por ser escolhido para ser o primeiro a ir ao espaço."
+  },
+  {
+      "question": "Qual a montanha mais alta do mundo?",
+      "alternative1": "Monte Chimborazo",
+      "alternative2": "Monte Everest",
+      "alternative3": "Dhaulagiri",
+      "alternative4": "Mauna Kea",
+      "correctAnswer": "Monte Everest",
+      "explanation1": "Dhaulagiri é a sétima montanha mais alta do mundo e a mais alta do Nepal. Está localizada na cordilheira do Himalaia, na parte centro-norte do Nepal. Sua altura é de 3.357 m de altitude",
+      "explanation2": "Monte Chimborazo é pico mais alto dos Andes equatoriais, está situado na província de Chimborazo, culminando a 6263 m de altitude",
+      "explanation3": "Mauna Kea, na Ilha do Havai, arquipélago do Havai, é um vulcão em escudo extinto. É o ponto mais elevado do arquipélago e sua altitude é de 4.207 m."
+  },
+  {
+      "question": "Quem inventou a lâmpada?",
+      "alternative1": "Henry Ford",
+      "alternative2": "Santos Dumont",
+      "alternative3": "Thomas Edison",
+      "alternative4": "Graham Bell",
+      "correctAnswer": "Thomas Edison",
+      "explanation1": "Santos Dumont é amplamente reconhecido como o pai da aviação, tendo realizado o primeiro voo homologado da história. É creditada a ele também a invenção do avião, dentro das normas técnicas do Aeroclube da França.",
+      "explanation2": "Graham Bell historicamente tenha sido considerado como o inventor do telefone, o italiano Antonio Meucci foi reconhecido como o seu verdadeiro inventor, em 11 de junho de 2002, pelo Congresso dos Estados Unidos",
+      "explanation3": "Henry Ford foi o fundador da Ford Motor Company e  e o primeiro empresário a aplicar a montagem em série de forma a produzir em massa automóveis em menos tempo e a um menor custo."
+  },
+  {
+      "question": "Qual o maior planeta do sistema solar?",
+      "alternative1": "Júpiter",
+      "alternative2": "Saturno",
+      "alternative3": "Plutão",
+      "alternative4": "Netuno",
+      "correctAnswer": "Júpiter",
+      "explanation1": "Saturno é o segundo maior planeta do Sistema Solar, atrás apenas de Júpiter",
+      "explanation2": "Plutão foi descoberto em 1930 e até 2006 foi considerado o nono planeta do Sistema Solar. Sua classificação como um planeta começou a ser questionada, a qual fez Plutão deixar de ser planeta e ganhar a nova classificação de planeta anão",
+      "explanation3": "O planeta mais distante do Sol pertence ao grupo dos gigantes gasosos, sendo o quarto maior do Sistema Solar, mas sua massa é superior à de Urano."
+  },
+  {
+      "question": "Qual o nome popular do cloreto de sódio?",
+      "alternative1": "Água",
+      "alternative2": "Alvejante",
+      "alternative3": "Vinagre",
+      "alternative4": "Sal de cozinha",
+      "correctAnswer": "Sal de cozinha",
+      "explanation1": "Água (fórmula: H2O) é uma substância química cujas moléculas são formadas por dois átomos de hidrogênio e um de oxigênio.",
+      "explanation2": "O alvejante é conhecido como hipoclorito de sódio é um composto químico que possui propriedades desinfetantes.",
+      "explanation3": "O Vinagre é um composto muito comum no nosso dia a dia, na química ele é conhecido como ácido acético, cujo nome oficial é ácido etanoico"
+  },
+  {
+      "question": "Que animal põe o maior ovo?",
+      "alternative1": "Avestruz",
+      "alternative2": "Beija-flor",
+      "alternative3": "Galinha",
+      "alternative4": "Pavão",
+      "correctAnswer": "Avestruz",
+      "explanation1": "O beija-flor é a menor das aves listadas e seu peso é de 2 gramas em mpedia e seu ovo pesa menos de 1 grama.",
+      "explanation2": "A galinha põe ovos em média pesando entre 45 e 59 gramas.",
+      "explanation3": "O pavão tem produção de ovos paracidos com a galinha entre 45 e 59 gramas, mas há casos que chega a 66 gramas."
+  },
+  {
+      "question": "Qual o nome do cientista que descobriu o processo de pasteurização e a vacina contra a raiva?",
+      "alternative1": "Blaise Pascal",
+      "alternative2": "Louis Pasteur",
+      "alternative3": "Charles Darwin",
+      "alternative4": "Antoine Lavoisier",
+      "correctAnswer": "Louis Pasteur",
+      "explanation1": "Blaise Pascal inventou a primeira máquina de calcular, chamada de máquina de aritmética, depois roda de pascalina e finalmente pascalina.",
+      "explanation2": "Charles Darwin estabeleceu a ideia que todos os seres vivos descendem de um ancestral em comum, argumento agora amplamente aceito e considerado um conceito fundamental no meio científico.",
+      "explanation3": "Antoine Lavoisier é considerado na literatura popular como o pai da química moderna."
+  },
+  {
+      "question": "As pessoas de qual tipo sanguíneo são consideradas doadores universais?",
+      "alternative1": "Tipo AB",
+      "alternative2": "Tipo A",
+      "alternative3": "Tipo B",
+      "alternative4": "Tipo O",
+      "correctAnswer": "Tipo O",
+      "explanation1": "Tipo A — pode doar para AB e A, recebe de A e O.",
+      "explanation2": "Tipo B — pode doar para B e AB, recebe de B e O.",
+      "explanation3": "Tipo AB — pode doar para AB, recebe de todos os tipos."
+  },
+  {
+      "question": "Como se chamam os vasos que transportam sangue do coração para a periferia do corpo?",
+      "alternative1": "Veias",
+      "alternative2": "Ventrículos",
+      "alternative3": "Artérias",
+      "alternative4": "Átrios",
+      "correctAnswer": "Artérias",
+      "explanation1": "Veias são vasos que garantem o retorno do sangue dos tecidos periféricos para o coração.",
+      "explanation2": "Ventrículo é a câmara inferior, que bombeia sangue para fora do coração.",
+      "explanation3": "Átrio é uma câmara superior que coleta sangue e o bombeia para a câmara inferior."
+  },
+  {
+      "question": "Que animal gruguleja?",
+      "alternative1": "O peru",
+      "alternative2": "A garça",
+      "alternative3": "O papagaio",
+      "alternative4": "O pavão",
+      "correctAnswer": "O peru",
+      "explanation1": "A garça gazea ou chilrear ou grasnar.",
+      "explanation2": "O Papagaio parlar ou charlar ou taramelar.",
+      "explanation3": "O pavão pupilar ou piar."
+  }
+]

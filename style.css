@@ -1,0 +1,311 @@
+:root {
+  --color-primary: #14163c;
+  --white: #ffffff;
+  --blue-100: #86d9ff;
+  --blue-200: #60cdff;
+  --blue-300: #3086ff;
+  --blue-400: #0047ab;
+  --yellow-100: #ffed47;
+  --yellow-200: #b6a400;
+  --green-100: #36ff15;
+  --green-200: #00bc29;
+  --red-100: #ff1243;
+  --red-200: #b80000;
+  --blue-hover: #33bfff59;
+  --pink: #ff4cea;
+  --gradient: linear-gradient(
+    -45deg,
+    rgb(17, 19, 51) 150%,
+    rgba(0, 71, 171) 70%,
+    rgba(48, 134, 255) 60%,
+    rgb(134, 217, 255) 40%,
+    rgb(255, 255, 255) 60%
+  )
+}
+
+@font-face {
+  font-family: Mochiy;
+  src: url(./assets/fonts/MochiyPopOne-Regular.ttf);
+}
+
+body {
+  background: linear-gradient(
+    315deg,
+    rgb(17, 19, 51),
+    #292b52,
+    #474a8a,
+    #212121
+  );
+  background-size: 400% 400%;
+  animation: gradient 10s ease infinite;
+  height: 100vh;
+  margin: 0px;
+}
+
+.section {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0 50%;
+  }
+}
+
+.divBody {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.divTop {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  display: block;
+  position: relative;
+  margin: auto;
+}
+
+.divBottom {
+  position: absolute;
+  bottom: 25px;
+  width: 100vw;
+}
+
+.divDevs {
+  color: var(--white);
+  font-family: Mochiy;
+  font-style: normal;
+  text-align: center;
+}
+
+.element {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  color: var(--white);
+}
+
+.redirectToQuestion {
+  z-index: 1;
+}
+
+.containerButton {
+  display: flex;
+  justify-content: space-between;
+  width: 861px;
+  flex-wrap: wrap;
+}
+
+.buttonStart {
+  width: 318px;
+  height: 67px;
+  margin-top: -50px;
+  background: var(--blue-400);
+  border: 7px solid var(--blue-400);
+  box-shadow: 0px 1px 13px 5px var(--blue-200);
+  color: var(--white);
+  border-radius: 40px;
+  font-family: "Mochiy";
+}
+
+.buttonStart:hover {
+  cursor: pointer;
+  background: var(--blue-300);
+  border: 7px solid var(--blue-300);
+  box-shadow: 0px 1px 13px 5px var(--blue-300);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.question {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-style: normal;
+  color: var(--white);
+  align-content: center;
+  font-size: 30px;
+  text-align: center;
+  transition: 0.3s;
+}
+
+.question:hover {
+  box-shadow: 0 4px 8px 0 rgba(248, 0, 248, 0.35);
+  transition: box-shadow 0.4s ease-in-out;
+}
+
+.cardQuestion {
+  display: flex;
+  width: 847px;
+  height: 286px;
+  border: 7px solid var(--pink);
+  box-shadow: 0px 1px 13px 5px var(--pink);
+  border-radius: 40px;
+  margin-bottom: 40px;
+  flex-direction: column;
+}
+
+.textCard {
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  color: var(--white);
+}
+
+.explanation {
+  justify-content: center;
+  align-items: center;
+  font-size: 17px;
+  color: var(--white);
+}
+
+.alternative {
+  color: var(--white);
+  font-size: 30px;
+  width: 403px;
+  height: 80px;
+  color: var(--white);
+  background: transparent;
+  border: 7px solid var(--blue-200);
+  box-shadow: 0px 1px 13px 5px var(--blue-200);
+  border-radius: 40px;
+  margin-bottom: 30px;
+}
+
+.alternative:hover {
+  background: rgba(51, 191, 255, 0.35);
+  transition: 0.5s;
+}
+
+.checkButton {
+  color: var(--white);
+  font-size: 30px;
+  width: 403px;
+  height: 80px;
+  color: var(--white);
+  background: var(--yellow-100);
+  border: 7px solid var(--yellow-100);
+  box-shadow: 0px 1px 13px 5px var(--yellow-200);
+  border-radius: 40px;
+  margin-bottom: 30px;
+}
+
+.correctButton {
+  color: var(--white);
+  font-size: 30px;
+  width: 403px;
+  height: 80px;
+  color: var(--white);
+  background: var(--green-100);
+  border: 7px solid var(--green-100);
+  box-shadow: 0px 1px 13px 5px var(--green-200);
+  border-radius: 40px;
+  margin-bottom: 30px;
+}
+
+.errorButton {
+  color: var(--white);
+  font-size: 30px;
+  width: 403px;
+  height: 80px;
+  background: var(--red-100);
+  border: 7px solid var(--red-100);
+  box-shadow: 0px 1px 13px 5px var(--red-200);
+  border-radius: 40px;
+  margin-bottom: 30px;
+}
+
+.navButton {
+  position: relative;
+  width: 200px;
+  height: 60px;
+  left: 58vh;
+  top: 650px;
+  color: var(--white);
+  background: transparent;
+  border: 7px solid #ffed47;
+  box-shadow: 0px 1px 13px 5px #ffed47;
+  border-radius: 40px;
+}
+
+.nextButton {
+  position: absolute;
+  justify-content: right;
+  margin-left: 20px;
+  top: 544px;
+  height: 61px;
+  width: 61px;
+  clip-path: polygon(100% 0%, 100% 100%, 0% 50%);
+  transform: rotate(180deg);
+
+  background: #e088ff;
+}
+
+.nextButton:hover {
+  background: #ff4cea;
+  transition: 0.5s;
+}
+
+.navButton:hover {
+  background: #b6a400;
+  transition: 0.5s;
+}
+
+.valueNone{
+  display: none;
+}
+
+.totalAnswered {
+width: 148px;
+height: 35px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #97DAFF;
+}
+
+.valueNone{
+  display: none;
+}
+
+#totalCorrect {
+
+  margin-bottom: 60px;
+  font-size: 30px;
+  color: var(--blue-100);
+  font-weight: 700;
+}
+
+#div-totalCorrect{
+  width: 100%;
+  display: flex;
+  justify-content: end;
+}

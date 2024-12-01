@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  background-color: #14163c;
+}
+
+.label {
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  color: white;
+  display: flex;
+  width: 847px;
+  height: 256px;
+  border: 7px solid #ff4cea;
+  box-shadow: 0px 1px 13px 5px #ff4cea;
+  border-radius: 40px;
+}
+
+.button:hover {
+  background-color: #1f5180;
+  border: 8px solid #60cdff;
+  box-shadow: 0px 1px 13px 8px #60cdff;
+  transition: 800ms;
+}
+.button {
+  color: white;
+  font-size: 30px;
+  width: 403px;
+  height: 80px;
+  left: 216px;
+  top: 416px;
+  cursor: pointer;
+  border: 7px solid #60cdff;
+  box-shadow: 0px 1px 13px 5px #60cdff;
+  border-radius: 40px;
+  margin-bottom: 20px;
+}
+.lalbel-align {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button-align {
+  padding-top: 25px;
+  flex-direction: column;
+  display: flex;
+  margin: 30px;
+}
+
+/* Div para deixar HTML mais reporivo. */
+
+.div-global { 
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+
+
